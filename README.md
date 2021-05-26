@@ -1,1 +1,3 @@
 # ALM_SiteAdmin_ExcelMacro
+
+This excel macro utility is created to create new user and assign them new project and roles in bulk....................................
